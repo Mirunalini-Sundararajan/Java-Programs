@@ -10,6 +10,6 @@ class alphabet
 		if(Character.isAlphabetic(ss[0]))
 			System.out.println("Alphabet");
 		else
-			System.out.println("Not a Alphabet");
+			System.out.println("Not an Alphabet");
 	}
 }
